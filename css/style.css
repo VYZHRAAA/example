@@ -4,4 +4,6 @@ body {
 
 p {
     color: rgb(182, 3, 137);
+    font-size: 25px;
+    font-style: oblique;
 }
