@@ -13,3 +13,7 @@ p {
     font-style: oblique;
 }
 
+img {
+    border: solid rgb(247, 3, 3) 5px;
+    border-radius: 10px;
+}
